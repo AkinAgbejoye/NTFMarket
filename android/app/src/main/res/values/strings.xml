@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">ntfs</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string> 
+<string name="facebook_app_id">682227712938522</string>
+<string name="fb_login_protocol_scheme">fb682227712938522</string>
+<string name="facebook_client_token">5c11070e7063ffa7182fc62c43753e23</string>
+
+
+</resources>

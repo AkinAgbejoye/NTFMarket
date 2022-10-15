@@ -32,6 +32,4 @@ const App = () =>  {
   );
 }
 
-https://auth.expo.io/@gr3gorywolf/playa-meets https://playa-meets-test.com/facebook/callback https://playameets.com/facebook/callback
-
 export default App;
